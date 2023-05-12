@@ -226,8 +226,9 @@ nav ul li a:hover::after
     left: 0;
     height: 60px;
     width: 60px;
-    margin: 12px 7px;
+    margin: 12px 12px;
     border-radius: 5px;
+     border-radius: 50%;
     object-fit: cover;
   }
   
